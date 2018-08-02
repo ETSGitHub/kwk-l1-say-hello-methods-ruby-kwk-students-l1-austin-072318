@@ -24,4 +24,4 @@ word = string.chars
  # puts"each letter is represented by a number, and each character (periods, spaces and letters) are seperated by periods.Spaces will be represented as your offset value"
 end
 
-ceasar_agustus("zzzzz","3")
+ceasar_agustus("Bickerstaff is fabulous","3")
